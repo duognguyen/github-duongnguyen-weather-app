@@ -1,0 +1,13 @@
+.weather-app {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+input {
+  padding: 8px;
+  width: 70%;
+}
+button {
+  padding: 8px;
+}
